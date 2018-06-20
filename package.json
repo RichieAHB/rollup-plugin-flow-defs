@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-flow-defs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Quickly add flow defs to your bundles",
   "keywords": [
     "rollup-plugin"
