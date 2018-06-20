@@ -2,6 +2,9 @@
   "name": "rollup-plugin-flow-defs",
   "version": "1.0.1",
   "description": "Quickly add flow defs to your bundles",
+  "keywords": [
+    "rollup-plugin"
+  ],
   "repository": {
     "url": "https://github.com/RichieAHB/rollup-plugin-flow-defs"
   },
