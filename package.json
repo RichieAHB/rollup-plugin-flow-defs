@@ -2,6 +2,13 @@
   "name": "rollup-plugin-flow-defs",
   "version": "1.0.0",
   "description": "Quickly add flow defs to your bundles",
+  "repository": {
+    "url": "https://github.com/RichieAHB/rollup-plugin-flow-defs"
+  },
+  "author": {
+    "name": "Richard Beddington",
+    "email": "richard.beddington@gmail.com"
+  },
   "main": "src/index.js",
   "license": "MIT",
   "dependencies": {
