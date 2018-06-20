@@ -1,0 +1,10 @@
+{
+  "name": "rollup-plugin-flow-defs",
+  "version": "1.0.0",
+  "description": "Quickly add flow defs to your bundles",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  }
+}
